@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Profile</title>
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/slick.css" type="text/css" /> 
-    <link rel="stylesheet" href="css/templatemo-style.css">
+    <link rel="stylesheet" href="vendors/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendors/css/slick.css" type="text/css" /> 
+    <link rel="stylesheet" href="vendors/css/templatemo-style.css">
 <!--
     
 TemplateMo 560 Astro Motion
@@ -42,9 +42,9 @@ https://templatemo.com/tm-560-astro-motion
     <div class="loader-section section-left"></div>
     <div class="loader-section section-right"></div>
   </div>  
-  <script src="js/jquery-3.5.1.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/slick.js"></script>
-  <script src="js/templatemo-script.js"></script>
+  <script src="vendors/js/jquery-3.5.1.min.js"></script>
+  <script src="vendors/js/bootstrap.min.js"></script>
+  <script src="vendors/js/slick.js"></script>
+  <script src="vendors/js/templatemo-script.js"></script>
 </body>
 </html>
